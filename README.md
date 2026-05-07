@@ -35,7 +35,7 @@ Cloud & Data Architect with hands-on experience designing, securing, and optimiz
 | [iam-hardening-mfa-rollout](https://github.com/Som-uka/iam-hardening-mfa-rollout) | IAM user classification, access key rotation, and MFA enforcement |
 | [lambda-runtime-remediation](https://github.com/Som-uka/lambda-runtime-remediation) | Upgrading deprecated Lambda runtimes to nodejs20.x across 100+ functions |
 | [ebs-encryption-migration](https://github.com/Som-uka/ebs-encryption-migration) | EBS volume encryption and gp2 → gp3 storage class optimization |
-| [yeti-db-health-audit](https://github.com/Som-uka/yeti-db-health-audit) | Database schema audit — primary keys, FK constraints, duplicates, nullability |
+| [aurora-db-health-audit](https://github.com/Som-uka/aurora-db-health-audit) | Database schema audit — primary keys, FK constraints, duplicates, nullability |
 | [platform-architecture-docs](https://github.com/Som-uka/platform-architecture-docs) | Current-state cloud platform architecture for a SaaS education provider |
 
 ---
