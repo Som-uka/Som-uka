@@ -10,7 +10,7 @@
 
 ## About Me
 
-Multi-Cloud & Data Architect with **3+ years of enterprise experience** designing, implementing, and securing cloud and hybrid infrastructure at scale.
+Multi-Cloud & Data Architect with **5+ years of enterprise experience** designing, implementing, and securing cloud and hybrid infrastructure at scale.
 
 I specialise in cloud architecture across **AWS, Microsoft Azure, Google Cloud, and VMware**, working with enterprise customers across multiple sectors to drive digital transformation, cloud migration, and infrastructure security. My work spans security hardening, IAM governance, database architecture, and cloud cost optimisation across live production environments.
 
@@ -71,11 +71,11 @@ My background in Chemical Engineering gives me a strong systems-thinking foundat
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Som-uka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=som-uka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Som-uka&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=som-uka&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Som-uka&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=som-uka&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -90,18 +90,3 @@ My background in Chemical Engineering gives me a strong systems-thinking foundat
 | [ebs-encryption-migration](https://github.com/Som-uka/ebs-encryption-migration) | EBS encryption enablement and gp2 to gp3 migration across 46 volumes |
 | [aurora-db-health-audit](https://github.com/Som-uka/aurora-db-health-audit) | Schema audit of a 211-table, 362M-row Aurora DB: PKs, FKs, duplicates, nullability |
 | [platform-architecture-docs](https://github.com/Som-uka/platform-architecture-docs) | Current-state cloud platform architecture for a SaaS education provider |
-
----
-
-## Experience
-
-| Role | Duration |
-|---|---|
-| Cloud Architect: Digital Infrastructure & Interconnection | Oct 2024 - Present |
-| Cloud Architect: Enterprise Cloud Migration | Mar 2024 - Oct 2024 |
-| Solutions Architect: On-Prem & Cloud | Apr 2022 - Mar 2024 |
-| Field Services Engineer | Jun 2021 - Mar 2022 |
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Som-uka&icon=0&color=6&label=Profile%20Views)
