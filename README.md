@@ -10,16 +10,16 @@
 
 ## About Me
 
-Cloud & Data Architect with **3+ years of enterprise experience** designing, implementing, and securing cloud and hybrid infrastructure across AWS, Microsoft Azure, Google Cloud, and VMware.
+Multi-Cloud & Data Architect with **3+ years of enterprise experience** designing, implementing, and securing cloud and hybrid infrastructure at scale.
 
-Currently a **Cloud Architect at Equinix** — West Africa's leading digital infrastructure and interconnection provider. Previously Cloud Solutions Architect and On-Premises Solutions Architect at **MainOne**, driving digital transformation and cloud migration for enterprise customers across multiple sectors.
+I specialise in cloud architecture across **AWS, Microsoft Azure, Google Cloud, and VMware** — working with enterprise customers across multiple sectors to drive digital transformation, cloud migration, and infrastructure security. My work spans security hardening, IAM governance, database architecture, and cloud cost optimisation across live production environments.
 
-My background in Chemical Engineering (Landmark University) gives me a strong systems-thinking foundation for solving complex architecture challenges. I hold senior certifications across Microsoft's cloud stack and bring deep hands-on experience in cloud security, IAM hardening, database architecture, and infrastructure governance.
+My background in Chemical Engineering gives me a strong systems-thinking foundation — I approach complex infrastructure problems with the same rigour I would any engineering challenge. I hold senior certifications across Microsoft's cloud stack and bring deep hands-on experience in cloud security, infrastructure audit and remediation, and data architecture.
 
-- Currently at **Equinix** — enterprise-scale cloud and interconnection infrastructure
 - Multi-cloud architect: **AWS · Azure · GCP · VMware · MS Fabric**
 - Deep specialisation in **cloud security, IAM hardening, and infrastructure audit**
 - Hands-on **database architecture**: Aurora, MySQL, schema health, data governance
+- Experienced with **enterprise-scale digital infrastructure** and interconnection
 - Open to senior cloud and infrastructure engagements — **Hybrid / Remote**
 
 ---
@@ -95,12 +95,12 @@ My background in Chemical Engineering (Landmark University) gives me a strong sy
 
 ## Experience
 
-| Role | Company | Duration |
-|---|---|---|
-| Cloud Architect | **Equinix** | Oct 2024 - Present |
-| Cloud Architect | **MainOne** | Mar 2024 - Oct 2024 |
-| Solutions Architect | **MainOne** | Apr 2022 - Mar 2024 |
-| Field Services Engineer | **LEDCo Ltd** | Jun 2021 - Mar 2022 |
+| Role | Duration |
+|---|---|
+| Cloud Architect — Digital Infrastructure & Interconnection | Oct 2024 - Present |
+| Cloud Architect — Enterprise Cloud Migration | Mar 2024 - Oct 2024 |
+| Solutions Architect — On-Prem & Cloud | Apr 2022 - Mar 2024 |
+| Field Services Engineer | Jun 2021 - Mar 2022 |
 
 ---
 
