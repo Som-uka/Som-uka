@@ -12,15 +12,15 @@
 
 Multi-Cloud & Data Architect with **3+ years of enterprise experience** designing, implementing, and securing cloud and hybrid infrastructure at scale.
 
-I specialise in cloud architecture across **AWS, Microsoft Azure, Google Cloud, and VMware** — working with enterprise customers across multiple sectors to drive digital transformation, cloud migration, and infrastructure security. My work spans security hardening, IAM governance, database architecture, and cloud cost optimisation across live production environments.
+I specialise in cloud architecture across **AWS, Microsoft Azure, Google Cloud, and VMware**, working with enterprise customers across multiple sectors to drive digital transformation, cloud migration, and infrastructure security. My work spans security hardening, IAM governance, database architecture, and cloud cost optimisation across live production environments.
 
-My background in Chemical Engineering gives me a strong systems-thinking foundation — I approach complex infrastructure problems with the same rigour I would any engineering challenge. I hold senior certifications across Microsoft's cloud stack and bring deep hands-on experience in cloud security, infrastructure audit and remediation, and data architecture.
+My background in Chemical Engineering gives me a strong systems-thinking foundation; I approach complex infrastructure problems with the same rigour I would any engineering challenge. I hold senior certifications across Microsoft's cloud stack and bring deep hands-on experience in cloud security, infrastructure audit and remediation, and data architecture.
 
 - Multi-cloud architect: **AWS · Azure · GCP · VMware · MS Fabric**
 - Deep specialisation in **cloud security, IAM hardening, and infrastructure audit**
 - Hands-on **database architecture**: Aurora, MySQL, schema health, data governance
 - Experienced with **enterprise-scale digital infrastructure** and interconnection
-- Open to senior cloud and infrastructure engagements — **Hybrid / Remote**
+- Open to senior cloud and infrastructure engagements (**Hybrid / Remote**)
 
 ---
 
@@ -84,11 +84,11 @@ My background in Chemical Engineering gives me a strong systems-thinking foundat
 | Project | Description |
 |---|---|
 | [aws-infrastructure-audit](https://github.com/Som-uka/aws-infrastructure-audit) | End-to-end security audit and remediation across a live AWS production environment |
-| [aurora-hardening-playbook](https://github.com/Som-uka/aurora-hardening-playbook) | RDS/Aurora security group containment — dev-pilot-first to production |
+| [aurora-hardening-playbook](https://github.com/Som-uka/aurora-hardening-playbook) | RDS/Aurora security group containment, dev-pilot-first through to production |
 | [iam-hardening-mfa-rollout](https://github.com/Som-uka/iam-hardening-mfa-rollout) | IAM user classification, MFA enforcement, and access key rotation |
 | [lambda-runtime-remediation](https://github.com/Som-uka/lambda-runtime-remediation) | Upgrading 100+ deprecated Lambda functions from nodejs16.x to nodejs20.x |
 | [ebs-encryption-migration](https://github.com/Som-uka/ebs-encryption-migration) | EBS encryption enablement and gp2 to gp3 migration across 46 volumes |
-| [aurora-db-health-audit](https://github.com/Som-uka/aurora-db-health-audit) | Schema audit of a 211-table, 362M-row Aurora DB — PKs, FKs, duplicates, nullability |
+| [aurora-db-health-audit](https://github.com/Som-uka/aurora-db-health-audit) | Schema audit of a 211-table, 362M-row Aurora DB: PKs, FKs, duplicates, nullability |
 | [platform-architecture-docs](https://github.com/Som-uka/platform-architecture-docs) | Current-state cloud platform architecture for a SaaS education provider |
 
 ---
@@ -97,9 +97,9 @@ My background in Chemical Engineering gives me a strong systems-thinking foundat
 
 | Role | Duration |
 |---|---|
-| Cloud Architect — Digital Infrastructure & Interconnection | Oct 2024 - Present |
-| Cloud Architect — Enterprise Cloud Migration | Mar 2024 - Oct 2024 |
-| Solutions Architect — On-Prem & Cloud | Apr 2022 - Mar 2024 |
+| Cloud Architect: Digital Infrastructure & Interconnection | Oct 2024 - Present |
+| Cloud Architect: Enterprise Cloud Migration | Mar 2024 - Oct 2024 |
+| Solutions Architect: On-Prem & Cloud | Apr 2022 - Mar 2024 |
 | Field Services Engineer | Jun 2021 - Mar 2022 |
 
 ---
