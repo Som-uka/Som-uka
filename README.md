@@ -69,16 +69,6 @@ My background in Chemical Engineering gives me a strong systems-thinking foundat
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=som-uka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=som-uka&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=som-uka&theme=tokyonight&hide_border=true)
-
----
-
 ## Featured Projects
 
 | Project | Description |
